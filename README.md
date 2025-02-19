@@ -35,14 +35,27 @@ Steps to install and set up the project:
    ```
 3. Install dependencies (if any)
 
-## Usage
-Instructions on how to use the project.
+### Uso
+Instruções sobre como usar o projeto:
+1. Acesse o diretório do projeto clonado.
+2. Abra o arquivo `index.html` em um navegador web para visualizar a página inicial.
+3. Faça as modificações necessárias no código HTML, CSS e JavaScript conforme necessário.
 
-## Contributing
-Guidelines for contributing to the project.
+### Contribuição
+Diretrizes para contribuir com o projeto:
+1. Faça um fork do repositório.
+2. Crie uma nova branch para sua feature ou correção de bug.
+   ```bash
+   git checkout -b minha-feature
+   ```
+3. Faça commit das suas alterações.
+   ```bash
+   git commit -m "Descrição das alterações"
+   ```
+4. Envie suas alterações para sua branch remota.
+   ```bash
+   git push origin minha-feature
+   ```
+5. Abra um Pull Request detalhando suas alterações e o motivo delas.
 
-## License
-This project is licensed under the MIT License.
-```
-
-Feel free to modify and expand upon this structure to fit the specific needs of your project.
+Sinta-se à vontade para modificar e expandir estas diretrizes conforme necessário.
