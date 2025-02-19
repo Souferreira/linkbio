@@ -11,7 +11,7 @@
 
 Here's a basic structure of the README for your project:
 
-```markdown
+
 # linkbio
 
 ## Description
